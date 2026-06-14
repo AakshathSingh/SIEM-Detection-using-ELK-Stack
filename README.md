@@ -112,24 +112,6 @@ Correlation rules were created based on:
 
 ---
 
-## Screenshots
-
-### ELK Stack Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Credential Stuffing Detection
-
-![Credential Stuffing](screenshots/credential-stuffing.png)
-
-### PowerShell Exploitation Detection
-
-![PowerShell Detection](screenshots/powershell-detection.png)
-
-### DNS Tunneling Detection
-
-![DNS Tunneling](screenshots/dns-tunneling.png)
-
 ---
 
 ## Learning Outcomes
